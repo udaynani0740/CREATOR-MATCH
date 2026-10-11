@@ -1,8 +1,6 @@
-**GitHub repository description**
 
 AI-powered creator discovery for brands. Find and compare micro-creators by location, niche, audience, and engagement, then explore recommendations with clear match scores tailored to your campaign goals.
 
-**README overview**
 
 # Creator Discovery Platform
 
