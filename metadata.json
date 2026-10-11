@@ -1,0 +1,8 @@
+{
+  "name": "Creator Match",
+  "description": "Creator Match: Discover verified creators with authentic reach metrics, audience analytics, collaboration rate cards, and comprehensive location discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
