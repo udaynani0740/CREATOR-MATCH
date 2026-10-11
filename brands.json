@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gymshark",
+    "company": "Gymshark",
+    "email": "collabs@gymshark.com",
+    "industry": "Fitness",
+    "website": "",
+    "budgetRange": "$50,000 – $150,000 / mo",
+    "location": {
+      "country": "United States",
+      "city": "New York"
+    },
+    "goals": [
+      "Brand Awareness",
+      "Direct Conversions"
+    ],
+    "id": "brand_1791663789141_yzt0",
+    "createdAt": "2026-10-10T20:23:09.141Z"
+  }
+]

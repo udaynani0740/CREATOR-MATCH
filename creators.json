@@ -1,0 +1,1969 @@
+[
+  {
+    "name": "Marcus Vance",
+    "handle": "@marcusvance",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Tech & Electronics creator with a passionate audience.",
+    "bio": "Dedicated creator connecting with followers through Tech & Electronics content.",
+    "niche": "Tech & Electronics",
+    "location": {
+      "country": "United States",
+      "state": "California",
+      "city": "San Francisco",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 310000,
+    "engagementRate": 4.5,
+    "averageViews": 62000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@marcusvance",
+        "followers": 310000,
+        "url": "https://youtube.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 54
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 14
+        },
+        {
+          "country": "Canada",
+          "percent": 12
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 34
+        },
+        {
+          "range": "25-34",
+          "percent": 46
+        },
+        {
+          "range": "35-44",
+          "percent": 14
+        },
+        {
+          "range": "45+",
+          "percent": 6
+        }
+      ],
+      "genderSplit": {
+        "male": 50,
+        "female": 48,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 15500,
+      "integratedSegment": 7750,
+      "shortForm": 4650,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Brand Partners"
+    ],
+    "recentContent": [
+      {
+        "id": "rc_1791664285028",
+        "title": "Featured: Marcus Vance's Channel Spotlight",
+        "platform": "YouTube",
+        "views": "62K",
+        "date": "Recent release",
+        "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+        "url": "#"
+      }
+    ],
+    "tags": [
+      "Tech & Electronics",
+      "YouTube"
+    ],
+    "id": "cre_1791664285029_8yghc",
+    "isCustom": true,
+    "createdAt": "2026-10-10T20:31:25.029Z"
+  },
+  {
+    "name": "Aisha Patel",
+    "handle": "@aishastyle",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Fashion & Lifestyle creator with a passionate audience.",
+    "bio": "Dedicated creator connecting with followers through Fashion & Lifestyle content.",
+    "niche": "Fashion & Lifestyle",
+    "location": {
+      "country": "United Kingdom",
+      "state": "England",
+      "city": "London",
+      "flag": "🇬🇧"
+    },
+    "primaryPlatform": "Instagram",
+    "followers": 145000,
+    "engagementRate": 4.5,
+    "averageViews": 29000,
+    "channels": [
+      {
+        "platform": "Instagram",
+        "handle": "@aishastyle",
+        "followers": 145000,
+        "url": "https://instagram.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United Kingdom",
+          "percent": 54
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 14
+        },
+        {
+          "country": "Canada",
+          "percent": 12
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 34
+        },
+        {
+          "range": "25-34",
+          "percent": 46
+        },
+        {
+          "range": "35-44",
+          "percent": 14
+        },
+        {
+          "range": "45+",
+          "percent": 6
+        }
+      ],
+      "genderSplit": {
+        "male": 50,
+        "female": 48,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 7250,
+      "integratedSegment": 3630,
+      "shortForm": 2180,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Brand Partners"
+    ],
+    "recentContent": [
+      {
+        "id": "rc_1791663796984",
+        "title": "Featured: Aisha Patel's Channel Spotlight",
+        "platform": "Instagram",
+        "views": "29K",
+        "date": "Recent release",
+        "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+        "url": "#"
+      }
+    ],
+    "tags": [
+      "Fashion & Lifestyle",
+      "Instagram"
+    ],
+    "id": "cre_1791663796985_xkzi3",
+    "isCustom": true,
+    "createdAt": "2026-10-10T20:23:16.985Z"
+  },
+  {
+    "id": "cre_mkbhd",
+    "name": "Marques Brownlee",
+    "handle": "@mkbhd",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Crisp tech reviews, smartphone hardware breakdowns, and automotive analysis.",
+    "bio": "Creator of MKBHD, Waveform podcast host, and founder of The Studio. Specializing in high-fidelity consumer electronics, camera tests, and honest industrial design reviews since 2008.",
+    "niche": "Tech & Electronics",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 18900000,
+    "engagementRate": 4.8,
+    "averageViews": 3200000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@mkbhd",
+        "followers": 18900000,
+        "url": "https://youtube.com/@mkbhd"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@mkbhd",
+        "followers": 4400000,
+        "url": "https://instagram.com/mkbhd"
+      },
+      {
+        "platform": "Podcast",
+        "handle": "Waveform Podcast",
+        "followers": 1200000,
+        "url": "https://youtube.com/@waveform"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 46
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 12
+        },
+        {
+          "country": "Canada",
+          "percent": 9
+        },
+        {
+          "country": "India",
+          "percent": 8
+        },
+        {
+          "country": "Germany",
+          "percent": 5
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 28
+        },
+        {
+          "range": "25-34",
+          "percent": 47
+        },
+        {
+          "range": "35-44",
+          "percent": 18
+        },
+        {
+          "range": "45+",
+          "percent": 7
+        }
+      ],
+      "genderSplit": {
+        "male": 82,
+        "female": 16,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 85000,
+      "integratedSegment": 45000,
+      "shortForm": 25000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Apple",
+      "Google",
+      "Tesla",
+      "Sony",
+      "dbrand",
+      "Anker"
+    ],
+    "recentContent": [
+      {
+        "id": "c1",
+        "title": "M4 iPad Pro: Real World Review & Pro Display",
+        "platform": "YouTube",
+        "views": "3.4M",
+        "date": "3 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@mkbhd"
+      },
+      {
+        "id": "c2",
+        "title": "Smartphone Awards 2025: Best of the Year",
+        "platform": "YouTube",
+        "views": "5.8M",
+        "date": "2 weeks ago",
+        "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@mkbhd"
+      }
+    ],
+    "tags": [
+      "Smartphones",
+      "Hardware",
+      "EVs",
+      "Studio Production",
+      "Camera Tests"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "cre_ali_abdaal",
+    "name": "Ali Abdaal",
+    "handle": "@aliabdaal",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Evidence-based productivity, lifestyle business, and deliberate learning.",
+    "bio": "Former Cambridge doctor turned creator and author of the NYT bestseller Feel-Good Productivity. Host of Deep Dive podcast exploring careers, finance, and meaningful work routines.",
+    "niche": "Productivity & Business",
+    "location": {
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "flag": "🇬🇧"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 5650000,
+    "engagementRate": 5.2,
+    "averageViews": 460000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@aliabdaal",
+        "followers": 5650000,
+        "url": "https://youtube.com/@aliabdaal"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@aliabdaal",
+        "followers": 1100000,
+        "url": "https://instagram.com/aliabdaal"
+      },
+      {
+        "platform": "Substack",
+        "handle": "Sunday Snippets",
+        "followers": 450000,
+        "url": "https://aliabdaal.com/newsletter"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 34
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 24
+        },
+        {
+          "country": "India",
+          "percent": 14
+        },
+        {
+          "country": "Canada",
+          "percent": 8
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 32
+        },
+        {
+          "range": "25-34",
+          "percent": 46
+        },
+        {
+          "range": "35-44",
+          "percent": 15
+        },
+        {
+          "range": "45+",
+          "percent": 7
+        }
+      ],
+      "genderSplit": {
+        "male": 64,
+        "female": 34,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 35000,
+      "integratedSegment": 18500,
+      "newsletterMention": 8500,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Notion",
+      "Skillshare",
+      "Brilliant",
+      "Eight Sleep",
+      "Storytel"
+    ],
+    "recentContent": [
+      {
+        "id": "c4",
+        "title": "How I Plan My Week for Maximum Joy & Output",
+        "platform": "YouTube",
+        "views": "620K",
+        "date": "4 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@aliabdaal"
+      }
+    ],
+    "tags": [
+      "Productivity",
+      "Books",
+      "Startups",
+      "Time Management",
+      "Deep Work"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-01-20T10:00:00.000Z"
+  },
+  {
+    "id": "cre_cleo_abram",
+    "name": "Cleo Abram",
+    "handle": "@cleoabram",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Optimistic tech journalism and big-picture science explainers.",
+    "bio": "Independent science and tech journalist. Creator of the hit docuseries Huge If True, breaking down nuclear fusion, quantum computing, AI chips, and humanoid robotics with clarity.",
+    "niche": "Science & Education",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 2850000,
+    "engagementRate": 7.9,
+    "averageViews": 1400000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@cleoabram",
+        "followers": 2850000,
+        "url": "https://youtube.com/@cleoabram"
+      },
+      {
+        "platform": "TikTok",
+        "handle": "@cleoabram",
+        "followers": 1900000,
+        "url": "https://tiktok.com/@cleoabram"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@cleoabram",
+        "followers": 920000,
+        "url": "https://instagram.com/cleoabram"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 52
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 11
+        },
+        {
+          "country": "Canada",
+          "percent": 9
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        },
+        {
+          "country": "Germany",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 34
+        },
+        {
+          "range": "25-34",
+          "percent": 44
+        },
+        {
+          "range": "35-44",
+          "percent": 14
+        },
+        {
+          "range": "45+",
+          "percent": 8
+        }
+      ],
+      "genderSplit": {
+        "male": 59,
+        "female": 39,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 28000,
+      "integratedSegment": 14000,
+      "shortForm": 9500,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Google Cloud",
+      "Formula 1",
+      "Microsoft",
+      "Intel",
+      "Qualcomm"
+    ],
+    "recentContent": [
+      {
+        "id": "c6",
+        "title": "Nuclear Fusion Just Took a Giant Leap: Huge If True",
+        "platform": "YouTube",
+        "views": "1.8M",
+        "date": "5 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@cleoabram"
+      }
+    ],
+    "tags": [
+      "Science",
+      "AI Chips",
+      "Clean Energy",
+      "Robotics",
+      "Huge If True"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "cre_peter_mckinnon",
+    "name": "Peter McKinnon",
+    "handle": "@petermckinnon",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Cinematic camera craft, visual storytelling, and everyday creative rituals.",
+    "bio": "Internationally acclaimed photographer and filmmaker. Founder of Petes Pirate Life and designer of the NOMATIC camera collection. Known for cinematic B-roll and camera tutorials.",
+    "niche": "Filmmaking & Photo",
+    "location": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "flag": "🇨🇦"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 5950000,
+    "engagementRate": 4.6,
+    "averageViews": 680000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@petermckinnon",
+        "followers": 5950000,
+        "url": "https://youtube.com/@petermckinnon"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@petermckinnon",
+        "followers": 3100000,
+        "url": "https://instagram.com/petermckinnon"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 45
+        },
+        {
+          "country": "Canada",
+          "percent": 22
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 11
+        },
+        {
+          "country": "Australia",
+          "percent": 7
+        },
+        {
+          "country": "Germany",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 24
+        },
+        {
+          "range": "25-34",
+          "percent": 51
+        },
+        {
+          "range": "35-44",
+          "percent": 18
+        },
+        {
+          "range": "45+",
+          "percent": 7
+        }
+      ],
+      "genderSplit": {
+        "male": 78,
+        "female": 20,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 34000,
+      "integratedSegment": 17000,
+      "shortForm": 11000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Canon",
+      "PolarPro",
+      "NOMATIC",
+      "Adobe Lightroom",
+      "Brevite"
+    ],
+    "recentContent": [
+      {
+        "id": "c8",
+        "title": "The Only Camera Lens You Will Ever Need",
+        "platform": "YouTube",
+        "views": "840K",
+        "date": "6 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@petermckinnon"
+      }
+    ],
+    "tags": [
+      "Cinematography",
+      "Photo Editing",
+      "Lenses",
+      "Coffee",
+      "Gear Reviews"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-10T10:00:00.000Z"
+  },
+  {
+    "id": "cre_huberman_lab",
+    "name": "Dr. Andrew Huberman",
+    "handle": "@hubermanlab",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Zero-cost science-based tools for everyday physical and mental performance.",
+    "bio": "Tenured Professor of Neurobiology and Ophthalmology at Stanford School of Medicine. Host of the chart-topping Huberman Lab podcast exploring sleep protocols, dopamine regulation, and cellular longevity.",
+    "niche": "Health & Wellness",
+    "location": {
+      "city": "Stanford",
+      "state": "California",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "Podcast",
+    "followers": 6400000,
+    "engagementRate": 6.1,
+    "averageViews": 2100000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@hubermanlab",
+        "followers": 5400000,
+        "url": "https://youtube.com/@hubermanlab"
+      },
+      {
+        "platform": "Podcast",
+        "handle": "Huberman Lab",
+        "followers": 6400000,
+        "url": "https://hubermanlab.com"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@hubermanlab",
+        "followers": 6200000,
+        "url": "https://instagram.com/hubermanlab"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 54
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 12
+        },
+        {
+          "country": "Canada",
+          "percent": 8
+        },
+        {
+          "country": "Australia",
+          "percent": 7
+        },
+        {
+          "country": "Germany",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 19
+        },
+        {
+          "range": "25-34",
+          "percent": 49
+        },
+        {
+          "range": "35-44",
+          "percent": 22
+        },
+        {
+          "range": "45+",
+          "percent": 10
+        }
+      ],
+      "genderSplit": {
+        "male": 68,
+        "female": 30,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 75000,
+      "integratedSegment": 38000,
+      "newsletterMention": 16000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "AG1",
+      "Whoop",
+      "Eight Sleep",
+      "InsideTracker",
+      "Momentous"
+    ],
+    "recentContent": [
+      {
+        "id": "c9",
+        "title": "Master Your Sleep Routine: Proven Protocols",
+        "platform": "YouTube",
+        "views": "2.9M",
+        "date": "1 week ago",
+        "thumbnail": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@hubermanlab"
+      }
+    ],
+    "tags": [
+      "Neuroscience",
+      "Sleep Protocols",
+      "Longevity",
+      "Dopamine",
+      "Biohacking"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-15T10:00:00.000Z"
+  },
+  {
+    "id": "cre_priya_kapoor",
+    "name": "Priya Kapoor",
+    "handle": "@thecurryclub",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Heritage culinary techniques, modern Indian cuisine, and spice stories.",
+    "bio": "Mumbai-based culinary creator celebrated for preserving heirloom regional Indian recipes, street food chronicles, and approachable cooking masterclasses.",
+    "niche": "Food & Culinary",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "flag": "🇮🇳"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 3800000,
+    "engagementRate": 6.4,
+    "averageViews": 850000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@thecurryclub",
+        "followers": 2400000,
+        "url": "https://youtube.com"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@thecurryclub",
+        "followers": 1400000,
+        "url": "https://instagram.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "India",
+          "percent": 62
+        },
+        {
+          "country": "United States",
+          "percent": 14
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 9
+        },
+        {
+          "country": "United Arab Emirates",
+          "percent": 7
+        },
+        {
+          "country": "Canada",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 33
+        },
+        {
+          "range": "25-34",
+          "percent": 48
+        },
+        {
+          "range": "35-44",
+          "percent": 13
+        },
+        {
+          "range": "45+",
+          "percent": 6
+        }
+      ],
+      "genderSplit": {
+        "male": 42,
+        "female": 56,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 24000,
+      "integratedSegment": 12000,
+      "shortForm": 7500,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Tata Sampann",
+      "Philips Domestic",
+      "Zomato",
+      "Spatula Co",
+      "IKEA"
+    ],
+    "recentContent": [
+      {
+        "id": "c_pk1",
+        "title": "Authentic Butter Chicken from Scratch: Traditional Dum Technique",
+        "platform": "YouTube",
+        "views": "1.2M",
+        "date": "4 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com"
+      }
+    ],
+    "tags": [
+      "Indian Cooking",
+      "Spices",
+      "Street Food",
+      "Heirloom Recipes",
+      "Comfort Food"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-18T10:00:00.000Z"
+  },
+  {
+    "id": "cre_emma_chamberlain",
+    "name": "Emma Chamberlain",
+    "handle": "@emmachamberlain",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Effortless vintage styling, authentic introspection, and specialty coffee.",
+    "bio": "Global fashion tastemaker, Met Gala official interviewer, and founder of Chamberlain Coffee. Host of the chart-topping podcast Anything Goes.",
+    "niche": "Fashion & Lifestyle",
+    "location": {
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "Instagram",
+    "followers": 15400000,
+    "engagementRate": 8.6,
+    "averageViews": 4500000,
+    "channels": [
+      {
+        "platform": "Instagram",
+        "handle": "@emmachamberlain",
+        "followers": 15400000,
+        "url": "https://instagram.com/emmachamberlain"
+      },
+      {
+        "platform": "YouTube",
+        "handle": "@emmachamberlain",
+        "followers": 12100000,
+        "url": "https://youtube.com/@emmachamberlain"
+      },
+      {
+        "platform": "Podcast",
+        "handle": "Anything Goes",
+        "followers": 3200000,
+        "url": "https://spotify.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 56
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 14
+        },
+        {
+          "country": "Canada",
+          "percent": 9
+        },
+        {
+          "country": "Australia",
+          "percent": 7
+        },
+        {
+          "country": "France",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 58
+        },
+        {
+          "range": "25-34",
+          "percent": 32
+        },
+        {
+          "range": "35-44",
+          "percent": 7
+        },
+        {
+          "range": "45+",
+          "percent": 3
+        }
+      ],
+      "genderSplit": {
+        "male": 18,
+        "female": 80,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 110000,
+      "integratedSegment": 55000,
+      "shortForm": 38000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Louis Vuitton",
+      "Cartier",
+      "Lancôme",
+      "Levis",
+      "Canon"
+    ],
+    "recentContent": [
+      {
+        "id": "c10",
+        "title": "Spring Lookbook & Copenhagen Street Style",
+        "platform": "YouTube",
+        "views": "3.6M",
+        "date": "1 week ago",
+        "thumbnail": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@emmachamberlain"
+      }
+    ],
+    "tags": [
+      "High Fashion",
+      "Thrifting",
+      "Coffee",
+      "Gen Z Culture",
+      "Podcasting"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-20T10:00:00.000Z"
+  },
+  {
+    "id": "cre_chloe_morello",
+    "name": "Chloe Morello",
+    "handle": "@chloemorello",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Elevated beauty tutorials, skincare breakdowns, and Australian lifestyle.",
+    "bio": "Sydney-born global beauty authority and creator. Pioneer of wearable glam, sunscreen formulas, and no-filter honest skincare reviews.",
+    "niche": "Fashion & Lifestyle",
+    "location": {
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "flag": "🇦🇺"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 3800000,
+    "engagementRate": 5.1,
+    "averageViews": 410000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@chloemorello",
+        "followers": 2600000,
+        "url": "https://youtube.com"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@chloemorello",
+        "followers": 1200000,
+        "url": "https://instagram.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "Australia",
+          "percent": 46
+        },
+        {
+          "country": "United States",
+          "percent": 26
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 14
+        },
+        {
+          "country": "Canada",
+          "percent": 8
+        },
+        {
+          "country": "New Zealand",
+          "percent": 6
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 31
+        },
+        {
+          "range": "25-34",
+          "percent": 52
+        },
+        {
+          "range": "35-44",
+          "percent": 12
+        },
+        {
+          "range": "45+",
+          "percent": 5
+        }
+      ],
+      "genderSplit": {
+        "male": 12,
+        "female": 86,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 26000,
+      "integratedSegment": 13000,
+      "shortForm": 8000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Sephora",
+      "Fenty Beauty",
+      "Mecca",
+      "La Roche-Posay",
+      "Dyson Hair"
+    ],
+    "recentContent": [
+      {
+        "id": "c_cm1",
+        "title": "Glass Skin Routine: Products That Actually Work",
+        "platform": "YouTube",
+        "views": "520K",
+        "date": "5 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com"
+      }
+    ],
+    "tags": [
+      "Beauty",
+      "Skincare",
+      "Clean Beauty",
+      "Makeup Tutorial",
+      "Australia"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-22T10:00:00.000Z"
+  },
+  {
+    "id": "cre_joshua_weissman",
+    "name": "Joshua Weissman",
+    "handle": "@joshuaweissman",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Elevated scratch cooking, fast food recreations, and culinary technique.",
+    "bio": "New York Times bestselling cookbook author and culinary creator. Pioneer of But Cheaper and But Better series, demystifying restaurant-grade sourdough, stocks, sauces, and comfort dishes.",
+    "niche": "Food & Culinary",
+    "location": {
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 8950000,
+    "engagementRate": 5.9,
+    "averageViews": 1100000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@joshuaweissman",
+        "followers": 8950000,
+        "url": "https://youtube.com/@joshuaweissman"
+      },
+      {
+        "platform": "TikTok",
+        "handle": "@joshuaweissman",
+        "followers": 6100000,
+        "url": "https://tiktok.com/@joshuaweissman"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@joshuaweissman",
+        "followers": 2300000,
+        "url": "https://instagram.com/joshuaweissman"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 53
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 13
+        },
+        {
+          "country": "Canada",
+          "percent": 10
+        },
+        {
+          "country": "Australia",
+          "percent": 7
+        },
+        {
+          "country": "Germany",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 35
+        },
+        {
+          "range": "25-34",
+          "percent": 44
+        },
+        {
+          "range": "35-44",
+          "percent": 14
+        },
+        {
+          "range": "45+",
+          "percent": 7
+        }
+      ],
+      "genderSplit": {
+        "male": 56,
+        "female": 42,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 42000,
+      "integratedSegment": 22000,
+      "shortForm": 14000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Traeger Grills",
+      "HexClad",
+      "Ooni Pizza",
+      "Zwilling",
+      "Made In"
+    ],
+    "recentContent": [
+      {
+        "id": "c11",
+        "title": "Making Sourdough Bread from Scratch: Perfect Crust",
+        "platform": "YouTube",
+        "views": "1.4M",
+        "date": "4 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@joshuaweissman"
+      }
+    ],
+    "tags": [
+      "Scratch Cooking",
+      "Sourdough",
+      "Comfort Food",
+      "Culinary Technique",
+      "Kitchenware"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-25T10:00:00.000Z"
+  },
+  {
+    "id": "cre_nikkie_tutorials",
+    "name": "Nikkie de Jager",
+    "handle": "@nikkietutorials",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Master beauty transformations, celebrity glam, and European entertainment.",
+    "bio": "Amsterdam-based master beauty artist, UN Goodwill Ambassador, and host of Eurovision Song Contest. Renowned worldwide for transformative makeup artistry and empowering honesty.",
+    "niche": "Fashion & Lifestyle",
+    "location": {
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "country": "Netherlands",
+      "flag": "🇳🇱"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 14300000,
+    "engagementRate": 5.8,
+    "averageViews": 1950000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@nikkietutorials",
+        "followers": 14300000,
+        "url": "https://youtube.com"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@nikkietutorials",
+        "followers": 19100000,
+        "url": "https://instagram.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 42
+        },
+        {
+          "country": "Netherlands",
+          "percent": 21
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 14
+        },
+        {
+          "country": "Germany",
+          "percent": 9
+        },
+        {
+          "country": "France",
+          "percent": 5
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 39
+        },
+        {
+          "range": "25-34",
+          "percent": 46
+        },
+        {
+          "range": "35-44",
+          "percent": 11
+        },
+        {
+          "range": "45+",
+          "percent": 4
+        }
+      ],
+      "genderSplit": {
+        "male": 22,
+        "female": 76,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 68000,
+      "integratedSegment": 34000,
+      "shortForm": 22000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Marc Jacobs",
+      "Maybelline",
+      "Nimya",
+      "Charlotte Tilbury",
+      "Beauty Bay"
+    ],
+    "recentContent": [
+      {
+        "id": "c_nt1",
+        "title": "Full Face of First Impressions: 2025 European Beauty Awards",
+        "platform": "YouTube",
+        "views": "2.1M",
+        "date": "3 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com"
+      }
+    ],
+    "tags": [
+      "Artistry",
+      "Celebrity Glam",
+      "Beauty Masterclass",
+      "Amsterdam",
+      "Eurovision"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-02-28T10:00:00.000Z"
+  },
+  {
+    "id": "cre_sara_dietschy",
+    "name": "Sara Dietschy",
+    "handle": "@saradietschy",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Creative workspace design, camera setups, and creator economy insights.",
+    "bio": "Tech and lifestyle creator, host of Work in Progress podcast, and founder of Rhubarb Studios. Known for honest reviews of creator workstations, mechanical keyboards, Apple gear, and mobile setups.",
+    "niche": "Tech & Electronics",
+    "location": {
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 940000,
+    "engagementRate": 5.4,
+    "averageViews": 165000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@saradietschy",
+        "followers": 940000,
+        "url": "https://youtube.com/@saradietschy"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@saradietschy",
+        "followers": 240000,
+        "url": "https://instagram.com/saradietschy"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 62
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 11
+        },
+        {
+          "country": "Canada",
+          "percent": 9
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        },
+        {
+          "country": "Germany",
+          "percent": 3
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 29
+        },
+        {
+          "range": "25-34",
+          "percent": 52
+        },
+        {
+          "range": "35-44",
+          "percent": 14
+        },
+        {
+          "range": "45+",
+          "percent": 5
+        }
+      ],
+      "genderSplit": {
+        "male": 61,
+        "female": 37,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 14000,
+      "integratedSegment": 7500,
+      "shortForm": 4500,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Logitech",
+      "Lacie",
+      "Square",
+      "Epidemic Sound",
+      "AnkerWork"
+    ],
+    "recentContent": [
+      {
+        "id": "c12",
+        "title": "Building The Ultimate 2025 Creator Desk Setup",
+        "platform": "YouTube",
+        "views": "230K",
+        "date": "5 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@saradietschy"
+      }
+    ],
+    "tags": [
+      "Studio Setup",
+      "Apple Ecosystem",
+      "Workspaces",
+      "Keyboards",
+      "Cameras"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "cre_johnny_harris",
+    "name": "Johnny Harris",
+    "handle": "@johnnyharris",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1524654458049-e36be0721fa2?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Motion-graphics visual journalism explaining maps, geopolitics, and history.",
+    "bio": "Emmy-nominated filmmaker and former Vox Borders host. Combines kinetic typography, 3D cartography, and investigative narrative journalism to explain complex global power dynamics.",
+    "niche": "Science & Education",
+    "location": {
+      "city": "Washington, D.C.",
+      "state": "District of Columbia",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 5450000,
+    "engagementRate": 7.3,
+    "averageViews": 1850000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@johnnyharris",
+        "followers": 5450000,
+        "url": "https://youtube.com/@johnnyharris"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@johnny.harris",
+        "followers": 750000,
+        "url": "https://instagram.com/johnny.harris"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 48
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 12
+        },
+        {
+          "country": "Germany",
+          "percent": 8
+        },
+        {
+          "country": "Canada",
+          "percent": 8
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 31
+        },
+        {
+          "range": "25-34",
+          "percent": 48
+        },
+        {
+          "range": "35-44",
+          "percent": 15
+        },
+        {
+          "range": "45+",
+          "percent": 6
+        }
+      ],
+      "genderSplit": {
+        "male": 66,
+        "female": 32,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 38000,
+      "integratedSegment": 20000,
+      "shortForm": 12000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "NordVPN",
+      "Trade Republic",
+      "Ground News",
+      "Morning Brew",
+      "Babbel"
+    ],
+    "recentContent": [
+      {
+        "id": "c13",
+        "title": "How Maps Lie: The Real Geography of the World",
+        "platform": "YouTube",
+        "views": "2.4M",
+        "date": "1 week ago",
+        "thumbnail": "https://images.unsplash.com/photo-1524654458049-e36be0721fa2?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@johnnyharris"
+      }
+    ],
+    "tags": [
+      "Cartography",
+      "Geopolitics",
+      "Visual Journalism",
+      "After Effects",
+      "History"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-03-05T10:00:00.000Z"
+  },
+  {
+    "id": "cre_rowena_tsai",
+    "name": "Rowena Tsai",
+    "handle": "@rowenatsai",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Gentle productivity, quarterly resets, and mental wellness routines.",
+    "bio": "Producer at Beauty Within and creator of intentional living guides. Helps young professionals navigate burnout, build sustainable habits, and embrace calm routines.",
+    "niche": "Health & Wellness",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 775000,
+    "engagementRate": 7.1,
+    "averageViews": 145000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@rowenatsai",
+        "followers": 775000,
+        "url": "https://youtube.com/@rowenatsai"
+      },
+      {
+        "platform": "Instagram",
+        "handle": "@rowenatsai",
+        "followers": 185000,
+        "url": "https://instagram.com/rowenatsai"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 46
+        },
+        {
+          "country": "Canada",
+          "percent": 15
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 12
+        },
+        {
+          "country": "Australia",
+          "percent": 9
+        },
+        {
+          "country": "Singapore",
+          "percent": 6
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 38
+        },
+        {
+          "range": "25-34",
+          "percent": 47
+        },
+        {
+          "range": "35-44",
+          "percent": 11
+        },
+        {
+          "range": "45+",
+          "percent": 4
+        }
+      ],
+      "genderSplit": {
+        "male": 15,
+        "female": 83,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 12500,
+      "integratedSegment": 6500,
+      "shortForm": 3800,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Headspace",
+      "Notion",
+      "Athletic Greens",
+      "Casetify",
+      "Monday.com"
+    ],
+    "recentContent": [
+      {
+        "id": "c14",
+        "title": "Quarterly Reset: Redefining Goals Without Pressure",
+        "platform": "YouTube",
+        "views": "190K",
+        "date": "3 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@rowenatsai"
+      }
+    ],
+    "tags": [
+      "Mindfulness",
+      "Journaling",
+      "Quarterly Reset",
+      "Mental Health",
+      "Habits"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-03-10T10:00:00.000Z"
+  },
+  {
+    "id": "cre_lex_fridman",
+    "name": "Lex Fridman",
+    "handle": "@lexfridman",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Long-form conversations on AI, philosophy, physics, and human nature.",
+    "bio": "MIT AI researcher and host of the Lex Fridman Podcast. Known for deep, multi-hour philosophical dialogues with leading scientists, tech founders, and thinkers.",
+    "niche": "Science & Education",
+    "location": {
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 4450000,
+    "engagementRate": 5.7,
+    "averageViews": 1600000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@lexfridman",
+        "followers": 4450000,
+        "url": "https://youtube.com/@lexfridman"
+      },
+      {
+        "platform": "Podcast",
+        "handle": "Lex Fridman Podcast",
+        "followers": 4100000,
+        "url": "https://lexfridman.com"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 51
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 12
+        },
+        {
+          "country": "Canada",
+          "percent": 8
+        },
+        {
+          "country": "Germany",
+          "percent": 6
+        },
+        {
+          "country": "India",
+          "percent": 5
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 22
+        },
+        {
+          "range": "25-34",
+          "percent": 53
+        },
+        {
+          "range": "35-44",
+          "percent": 18
+        },
+        {
+          "range": "45+",
+          "percent": 7
+        }
+      ],
+      "genderSplit": {
+        "male": 74,
+        "female": 24,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 55000,
+      "integratedSegment": 28000,
+      "newsletterMention": 12000,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "AG1",
+      "Babbel",
+      "Eight Sleep",
+      "Fundrise",
+      "MasterClass"
+    ],
+    "recentContent": [
+      {
+        "id": "c15",
+        "title": "Deep Learning & the Future of Reasoning Models",
+        "platform": "YouTube",
+        "views": "2.1M",
+        "date": "4 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@lexfridman"
+      }
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Physics",
+      "Longform Dialogues",
+      "Philosophy"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-03-12T10:00:00.000Z"
+  },
+  {
+    "id": "cre_austin_evans",
+    "name": "Austin Evans",
+    "handle": "@austinevans",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=400&q=80",
+    "banner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+    "headline": "Budget vs flagship gadget tests, PC builds, and Mystery Tech unboxings.",
+    "bio": "Host of Mystery Tech and Broke vs Pro. Over 15 years testing custom gaming rigs, retro game emulation handhelds, and bizarre electronics.",
+    "niche": "Tech & Electronics",
+    "location": {
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "primaryPlatform": "YouTube",
+    "followers": 5550000,
+    "engagementRate": 4.2,
+    "averageViews": 520000,
+    "channels": [
+      {
+        "platform": "YouTube",
+        "handle": "@austinevans",
+        "followers": 5550000,
+        "url": "https://youtube.com/@austinevans"
+      },
+      {
+        "platform": "TikTok",
+        "handle": "@austinevans",
+        "followers": 1200000,
+        "url": "https://tiktok.com/@austinevans"
+      }
+    ],
+    "audienceDemographics": {
+      "topCountries": [
+        {
+          "country": "United States",
+          "percent": 58
+        },
+        {
+          "country": "United Kingdom",
+          "percent": 11
+        },
+        {
+          "country": "Canada",
+          "percent": 10
+        },
+        {
+          "country": "Australia",
+          "percent": 6
+        },
+        {
+          "country": "Germany",
+          "percent": 4
+        }
+      ],
+      "ageRanges": [
+        {
+          "range": "18-24",
+          "percent": 44
+        },
+        {
+          "range": "25-34",
+          "percent": 38
+        },
+        {
+          "range": "35-44",
+          "percent": 12
+        },
+        {
+          "range": "45+",
+          "percent": 6
+        }
+      ],
+      "genderSplit": {
+        "male": 85,
+        "female": 13,
+        "other": 2
+      }
+    },
+    "collaborationRates": {
+      "dedicatedVideo": 30000,
+      "integratedSegment": 15000,
+      "shortForm": 8500,
+      "currency": "USD"
+    },
+    "pastBrands": [
+      "Samsung",
+      "Corsair",
+      "Elgato",
+      "Razer",
+      "NZXT"
+    ],
+    "recentContent": [
+      {
+        "id": "c16",
+        "title": "I Bought the Cheapest PC on the Internet in 2025",
+        "platform": "YouTube",
+        "views": "920K",
+        "date": "2 days ago",
+        "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+        "url": "https://youtube.com/@austinevans"
+      }
+    ],
+    "tags": [
+      "PC Building",
+      "Gaming Consoles",
+      "Mystery Tech",
+      "Budget Hardware",
+      "Audio"
+    ],
+    "isCustom": false,
+    "createdAt": "2024-03-15T10:00:00.000Z"
+  }
+]
